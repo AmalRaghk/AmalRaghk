@@ -6,21 +6,4 @@
 Here are some ideas to get you started:
 -->
 <img src="https://raw.githubusercontent.com/AmalRaghk/AmalRaghk/master/gifs/job.gif" align="center">
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 🌱 I’m currently learning python.
 <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalRaghk&theme=dark" />
