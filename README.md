@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-
+<img src="https://raw.githubusercontent.com/AmalRaghk/AmalRaghk/gifs/job.gif">
 ### 🌱 I’m currently learning python.
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalRaghk&theme=dark" />
+<img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalRaghk&theme=dark" />
