@@ -13,5 +13,6 @@
 <img src="https://raw.githubusercontent.com/AmalRaghk/AmalRaghk/master/resources/visualstudio.svg"height="50" width="50" />
 <br><br>
 <h3>My git hub</h3> 
+<br><br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalRaghk&theme=dark" />
 <img src="https://github-readme-stats.vercel.app/api/?username=AmalRaghk&show_icons=true&theme=dark" />
