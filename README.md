@@ -4,7 +4,7 @@
 
 -->
  
-<img src="https://raw.githubusercontent.com/AmalRaghk/AmalRaghk/master/resources/job.gif " />
+<img align="center" src="https://raw.githubusercontent.com/AmalRaghk/AmalRaghk/master/resources/job.gif " />
 
 <h1> I am currently studying</h1>
 <img align ="left" src="https://raw.githubusercontent.com/AmalRaghk/AmalRaghk/master/resources/php.svg" height="50" width="50" /><img  align="left" src="https://raw.githubusercontent.com/AmalRaghk/AmalRaghk/master/resources/python.svg" height="50" width="50" /><img align ="left" src="https://raw.githubusercontent.com/AmalRaghk/AmalRaghk/master/resources/html5.svg" height="50" width="50" />
