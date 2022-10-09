@@ -1,11 +1,12 @@
 ### Hi there 👋
-
+### FRONT-END DEV HERE ⚙️
 <!--
 
 -->
  
 <img src="https://raw.githubusercontent.com/AmalRaghk/AmalRaghk/master/resources/banner.png " />
 <h1> I am currently studying</h1>
+
 <img align ="left" src="https://raw.githubusercontent.com/AmalRaghk/AmalRaghk/master/resources/php.svg" height="50" width="50" /><img  align="left" src="https://raw.githubusercontent.com/AmalRaghk/AmalRaghk/master/resources/python.svg" height="50" width="50" />
 
 <img align ="left" src="https://raw.githubusercontent.com/AmalRaghk/AmalRaghk/master/resources/js.svg" height="50" width="50" /><br><br>
