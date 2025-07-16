@@ -11,9 +11,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m working on state-of-the-art AI/ML projects
+- 🔭 I’m working on  AI/ML projects with a UI
 - 🌱 Exploring deep learning, transformers, and recommendation engines
-- 🤝 Open to collaborations in AI, ML & Data Science
+- 🤝 Open to collaborations in AI, ML ,React & Data Science
 - 💬 Ask me about Python, Machine Learning, or Neural Networks
 
 ---
